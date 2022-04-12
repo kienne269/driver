@@ -17,7 +17,7 @@ void chuoiso(void)
     int i;
     int min = 0;
     int max = 0;
-    int a[6] = {0, 9, 8, 1, 5, 3};
+    int a[6] = {1, 2, 3, 4, 5, 6};
     for (i = 0; i < 6; i++)
     {
         if (min > a[i])

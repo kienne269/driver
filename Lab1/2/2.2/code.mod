@@ -1,0 +1,2 @@
+/home/admin123/Desktop/Driver/Lab1/2/2.2/code.o
+

@@ -14,7 +14,8 @@ static int p01_init(void)
 
 void chuoiso(void)
 {
-    int a[6] = {0, 9, 8, 1, 5, 3};
+    int a[6] = {1, 2, 3, 4, 5, 6};
+    int tong = a[0] + a[1] + a[2] + a[3] + a[4] + a[5];
     printk("Chuoi so so a[]: ");
     printk("%d", a[0]);
     printk("%d", a[1]);
@@ -22,7 +23,7 @@ void chuoiso(void)
     printk("%d", a[3]);
     printk("%d", a[4]);
     printk("%d", a[5]);
-    printk("Tong cac phan tu cua chuoi so a[] la: %d", a[0] + a[1] + a[2] + a[3] + a[4] + a[5]);
+    printk("Tong cac phan tu cua chuoi so a[] la: %d", tong);
 }
 
 static void p01_exit(void)
