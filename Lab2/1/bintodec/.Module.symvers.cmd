@@ -1,0 +1,1 @@
+cmd_/home/admin123/Desktop/Driver/Lab2/1/bintodec/Module.symvers := sed 's/\.ko$$/\.o/' /home/admin123/Desktop/Driver/Lab2/1/bintodec/modules.order | scripts/mod/modpost -m -a  -o /home/admin123/Desktop/Driver/Lab2/1/bintodec/Module.symvers -e -i Module.symvers   -T -

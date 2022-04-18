@@ -12,7 +12,7 @@ static int p01_init(void)
     return 0;
 }
 
-void chuoiso(void)
+void chuoiso()
 {
     int a[6] = {1, 2, 3, 4, 5, 6};
     int tong = a[0] + a[1] + a[2] + a[3] + a[4] + a[5];

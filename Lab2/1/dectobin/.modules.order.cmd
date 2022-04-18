@@ -1,0 +1,1 @@
+cmd_/home/admin123/Desktop/Driver/Lab2/1/dectobin/modules.order := {   echo /home/admin123/Desktop/Driver/Lab2/1/dectobin/code.ko; :; } | awk '!x[$$0]++' - > /home/admin123/Desktop/Driver/Lab2/1/dectobin/modules.order
