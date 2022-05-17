@@ -1,0 +1,1 @@
+cmd_/home/admin123/Desktop/Driver/Lab3/3.2/bai2.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/admin123/Desktop/Driver/Lab3/3.2/bai2.ko /home/admin123/Desktop/Driver/Lab3/3.2/bai2.o /home/admin123/Desktop/Driver/Lab3/3.2/bai2.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/tuyenk/codeDriver/lab3/bai2/bai21.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/tuyenk/codeDriver/lab3/bai2/bai21.ko /home/tuyenk/codeDriver/lab3/bai2/bai21.o /home/tuyenk/codeDriver/lab3/bai2/bai21.mod.o;  true
