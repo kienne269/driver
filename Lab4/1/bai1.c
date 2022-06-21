@@ -3,12 +3,9 @@
 #include <linux/fs.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Tuyenkkkkkk");
-MODULE_DESCRIPTION("Device number dong, lab4 bai1");
 MODULE_VERSION("1.0");
 
 dev_t dev_num = 0;
-char name[]="lab4.1 HoangTrongTuyen";
 static int __init char_driver_init(void)
 {
     int ret = 0;

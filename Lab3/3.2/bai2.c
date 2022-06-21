@@ -5,8 +5,6 @@
 #include <linux/moduleparam.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Tuyenkkkkkk");
-MODULE_DESCRIPTION("bai 2.1_lab3");
 MODULE_VERSION("1.0");
 
 char *xauro;
