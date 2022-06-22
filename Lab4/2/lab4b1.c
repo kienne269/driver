@@ -7,7 +7,7 @@
 #include <linux/uaccess.h>
 #include <linux/kernel.h>
 
-#define AUTHOR "linh"
+#define AUTHOR "kien"
 #define DESC "LAB4_2"
 #define VERSION "01"
 
