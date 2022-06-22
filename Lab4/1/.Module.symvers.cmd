@@ -1,1 +1,1 @@
-cmd_/home/admin123/Desktop/Driver/Lab4/1/Module.symvers := sed 's/\.ko$$/\.o/' /home/admin123/Desktop/Driver/Lab4/1/modules.order | scripts/mod/modpost -m -a  -o /home/admin123/Desktop/Driver/Lab4/1/Module.symvers -e -i Module.symvers   -T -
+cmd_/home/driver/Desktop/Lab/lab4_1/Module.symvers := sed 's/ko$$/o/' /home/driver/Desktop/Lab/lab4_1/modules.order | scripts/mod/modpost -m -a   -o /home/driver/Desktop/Lab/lab4_1/Module.symvers -e -i Module.symvers   -T -

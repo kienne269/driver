@@ -1,0 +1,1 @@
+cmd_/home/admin123/Desktop/Driver/Lab4/2/lab4b1.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/admin123/Desktop/Driver/Lab4/2/lab4b1.ko /home/admin123/Desktop/Driver/Lab4/2/lab4b1.o /home/admin123/Desktop/Driver/Lab4/2/lab4b1.mod.o;  true
